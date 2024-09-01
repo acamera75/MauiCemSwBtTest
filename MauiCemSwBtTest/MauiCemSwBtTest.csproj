@@ -69,4 +69,8 @@
 		<PackageReference Include="Plugin.BLE" Version="3.1.0" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Arduino\Portenta\" />
+	</ItemGroup>
+
 </Project>
